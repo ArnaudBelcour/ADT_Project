@@ -8,6 +8,7 @@ text_processing.py extracts abstracts from xml extracts from Pubmed, tokenizes a
 # Installation
 
 The script needs :
+
 *[Python](https://www.python.org/downloads/)
 
 *[Python Modules installation](https://github.com/ArnaudBelcour/Python_Modules_Installation.git)
